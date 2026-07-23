@@ -1,3 +1,8 @@
+#include <iostream>
+#include <stack>
+#include <algorithm>
+using namespace std;
+
 class MinStack {
     stack<pair<int,int>>st;
 public:
