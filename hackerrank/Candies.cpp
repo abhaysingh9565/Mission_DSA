@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 long candies(int n, vector<int> arr) {
 
     vector<int> candy(n, 1);
