@@ -1,3 +1,7 @@
+#include <iostream>
+#include <stack>
+#include <algorithm>
+using namespace std;
 class Solution {
   public:
       int maxAbsoluteSum(vector<int>& nums) {

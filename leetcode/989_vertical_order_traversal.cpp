@@ -10,7 +10,11 @@
  *         : val(x), left(left), right(right) {}
  * };
  */
-
+#include <iostream>
+#include <stack>
+#include <algorithm>
+#include <map>
+using namespace std;
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {

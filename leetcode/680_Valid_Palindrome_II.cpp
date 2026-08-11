@@ -1,3 +1,7 @@
+#include <iostream>
+#include <stack>
+#include <algorithm>
+using namespace std;
 class Solution {
   public:
       bool checkPalindrome(string &s , int b, int e)

@@ -1,3 +1,7 @@
+#include <iostream>
+#include <stack>
+#include <algorithm>
+using namespace std;
 class Solution1 {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
