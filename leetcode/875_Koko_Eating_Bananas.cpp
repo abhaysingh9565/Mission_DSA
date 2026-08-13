@@ -1,3 +1,8 @@
+#include <iostream>
+#include <stack>
+#include <algorithm>
+#include<vector>
+using namespace std;
 class Solution {
   public:
       bool canEat(vector<int>& piles , int mid , int h)
