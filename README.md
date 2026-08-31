@@ -7,6 +7,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -28,4 +29,12 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
