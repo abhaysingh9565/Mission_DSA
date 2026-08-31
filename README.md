@@ -10,6 +10,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
@@ -68,4 +69,12 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
