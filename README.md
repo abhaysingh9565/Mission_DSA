@@ -19,6 +19,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -41,6 +42,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -76,6 +78,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 ## Sorting
 |  |
 | ------- |
@@ -87,5 +90,6 @@ for example == 267_missing_number {question name = missing number , question num
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
