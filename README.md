@@ -10,6 +10,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -65,6 +66,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -106,6 +109,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
