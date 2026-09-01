@@ -19,6 +19,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -40,6 +41,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +84,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
