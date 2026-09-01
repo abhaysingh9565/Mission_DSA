@@ -17,6 +17,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
@@ -76,6 +77,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
@@ -100,6 +103,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
