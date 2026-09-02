@@ -92,10 +92,12 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 ## Sorting
@@ -137,4 +139,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
