@@ -25,7 +25,7 @@ public:
         
     }
     void increment(int k, int val) {
-        k = min(k , int(st.size()));
+        k = min(k , (int)st.size());
         for(int i = 0 ; i< k ; i++)
         {
             st[i]+=val;
