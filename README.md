@@ -25,6 +25,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
@@ -51,11 +52,13 @@ for example == 267_missing_number {question name = missing number , question num
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -81,6 +84,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
