@@ -163,6 +163,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -188,4 +190,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
