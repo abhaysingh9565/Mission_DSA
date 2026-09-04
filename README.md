@@ -8,6 +8,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
@@ -88,6 +89,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
