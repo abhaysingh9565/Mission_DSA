@@ -33,6 +33,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +90,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
