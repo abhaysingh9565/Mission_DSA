@@ -1,17 +1,11 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string str ="";
-        for(int i = 0 ; i < s.size();i++)
-        {
-            char ch = s[i];
-            if((ch>=65 && ch <= 90)||(ch>=97 && ch<=122)||(ch>=48 && ch<=57))
-            {
-                if((ch>=65 && ch <= 90))
-                {
-                    str+=char(ch+32);
-                }
-                else str+=ch;
+        string str = "";
+
+        for(int i = 0; i<s.length(); i++){
+            if(isalnum(s[i])){
+                str += tolower(s[i]);
             }
         }
         int i = 0 , j = str.size()-1;
