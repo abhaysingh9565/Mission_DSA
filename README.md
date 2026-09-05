@@ -98,6 +98,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
@@ -139,6 +140,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
