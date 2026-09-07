@@ -13,6 +13,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -227,6 +228,11 @@ for example == 267_missing_number {question name = missing number , question num
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
