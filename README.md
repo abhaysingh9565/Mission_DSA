@@ -26,6 +26,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +235,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
