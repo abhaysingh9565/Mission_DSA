@@ -269,4 +269,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
