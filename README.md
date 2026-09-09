@@ -63,6 +63,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
@@ -106,6 +107,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
@@ -139,6 +141,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -273,4 +276,12 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0176-second-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
