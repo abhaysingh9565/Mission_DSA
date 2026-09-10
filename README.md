@@ -198,6 +198,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -211,6 +212,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
@@ -222,6 +224,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
@@ -237,6 +240,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
