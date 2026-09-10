@@ -33,6 +33,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
@@ -195,6 +196,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0110-balanced-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -208,6 +210,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0110-balanced-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -237,6 +240,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0110-balanced-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
