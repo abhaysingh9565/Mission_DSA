@@ -22,14 +22,17 @@ public:
         {
             int n = q.size();
             TreeNode* num ;
-            while(n--)
+            for(int i = 1 ; i <= n ; i++)
             {
                 num = q.front();
                 q.pop();
+
+                if(i==n){
+                    ans.push_back(num->val);
+                }
                 if(num->left)q.push(num->left);
                 if(num->right)q.push(num->right);
             }
-            ans.push_back(num->val);
         }
         return ans;
     }
