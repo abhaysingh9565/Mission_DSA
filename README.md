@@ -168,6 +168,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
+| [0796-rotate-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -293,6 +294,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
