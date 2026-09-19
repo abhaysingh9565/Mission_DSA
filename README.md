@@ -7,6 +7,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0027-remove-element) |
@@ -99,6 +100,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
