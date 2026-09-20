@@ -10,9 +10,9 @@
  * };
  */
 class Solution {
-public:
     int count = 0 ;
-    void solve(TreeNode* root , long long sum , int targetSum)
+    private:
+    void solve(TreeNode* root , int targetSum , long sum )
     {
         if(!root)return ;
 
@@ -22,18 +22,18 @@ public:
         {
             count++;
         }
-        solve(root->left,sum,targetSum);
-        solve(root->right,sum,targetSum);
+        solve(root->left,targetSum , sum);
+        solve(root->right, targetSum , sum);
     }
+public:
     int pathSum(TreeNode* root, int targetSum) {
+        if(!root)return 0 ;
 
-        if(!root)return 0;
-        solve(root,0,targetSum);
+        solve(root,targetSum , 0 );
 
         pathSum(root->left,targetSum);
         pathSum(root->right,targetSum);
-
+        
         return count;
-
     }
 };
