@@ -234,6 +234,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0199-binary-tree-right-side-view](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -259,6 +260,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0199-binary-tree-right-side-view](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -305,6 +307,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0199-binary-tree-right-side-view](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -327,6 +330,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Union-Find
 |  |
@@ -383,10 +387,12 @@ for example == 267_missing_number {question name = missing number , question num
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Prefix Sum
 |  |
