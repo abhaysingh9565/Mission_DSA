@@ -15,6 +15,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,6 +134,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -141,6 +143,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
