@@ -28,6 +28,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -384,4 +385,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
