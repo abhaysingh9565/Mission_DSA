@@ -20,6 +20,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
@@ -143,6 +144,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0062-unique-paths](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
