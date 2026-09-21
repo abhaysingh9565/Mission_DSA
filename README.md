@@ -22,6 +22,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -157,6 +159,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Quicksort
 |  |
@@ -351,6 +354,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -358,5 +362,10 @@ for example == 267_missing_number {question name = missing number , question num
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
