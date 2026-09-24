@@ -18,6 +18,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -125,6 +126,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0086-partition-list) |
@@ -172,6 +174,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0015-3sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,6 +183,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -422,4 +426,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
