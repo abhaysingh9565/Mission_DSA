@@ -117,6 +117,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +204,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -432,4 +434,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 <!---LeetCode Topics End-->
