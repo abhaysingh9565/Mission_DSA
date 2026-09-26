@@ -35,6 +35,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
@@ -87,6 +88,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -225,6 +227,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Memoization
@@ -445,4 +448,5 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
