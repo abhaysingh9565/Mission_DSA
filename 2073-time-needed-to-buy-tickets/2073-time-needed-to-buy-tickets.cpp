@@ -1,27 +1,17 @@
 class Solution {
 public:
     int timeRequiredToBuy(vector<int>& tickets, int k) {
-        int n = tickets.size();
-        queue<pair<int,int>>q;
-        for(int i = 0 ; i < n ; i ++)
+        int total = 0 ;
+        for(int i = 0 ; i < tickets.size() ; i++)
         {
-            q.push({tickets[i],i});
-        }
-        int val = tickets[k];
-        int time = 0 ;
-        while(true)
-        {
-            auto [tic , i] = q.front();
-            q.pop();
-            tic--;
-            time++;
-            if(i==k && tic==0){
-                return time;
+            if(i<=k)
+            {
+                total += min(tickets[i],tickets[k]);
             }
-            if(tic!=0)
-            q.push({tic,i});
+            else{
+                total += min(tickets[i],tickets[k]-1);
+            }
         }
-        return time;
-        
+        return total;
     }
 };
