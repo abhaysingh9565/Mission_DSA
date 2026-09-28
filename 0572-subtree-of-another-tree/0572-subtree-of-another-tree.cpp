@@ -27,31 +27,9 @@ public:
         return false;
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!subRoot)
-            return true;
-
-        if(!root)
-            return false;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty())
-        {
-            int n = q.size();
-            while(n--)
-            {
-                if(q.front()->val == subRoot->val)
-                {
-                    if(isSame(q.front(),subRoot))
-                    return true;
-                }
-                if(q.front()->left)
-                q.push(q.front()->left);
-                if(q.front()->right)
-                q.push(q.front()->right);
-
-                q.pop();
-            }
-        }
-        return false;
+        if(!root)return false;
+        if(isSame(root,subRoot))return true;
+        
+        return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
     }
 };
