@@ -2,7 +2,6 @@ class Solution {
 public:
     string reverseParentheses(string s) {
         stack<pair<char,int>>st;
-        string ans;
         for(int i = 0 ; i < s.size(); i++)
         {
             char c = s[i];
@@ -14,15 +13,14 @@ public:
             {
                 int j = st.top().second;
                 st.pop();
-                reverse(ans.begin()+j+1,ans.end());
+                reverse(s.begin()+j+1,s.begin()+i);
             }
-                ans+=c;
         }
         string result="";
-        for(int i = 0 ; i < ans.size(); i++)
+        for(int i = 0 ; i < s.size(); i++)
         {
-            if(ans[i]=='(' || ans[i]==')')continue;
-            result += ans[i];
+            if(s[i]=='(' || s[i]==')')continue;
+            result += s[i];
         }
         return result;
     }
