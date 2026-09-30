@@ -10,13 +10,17 @@ private:
         }
         ans.push_back(nums[i]);
         solve(nums,i+1,n,ans);
+
+        int idx = i+1;
+        while(idx<n && nums[idx]==nums[idx-1])idx++;
+
         ans.pop_back();
-        while(i<n-1 && nums[i+1]==nums[i])i++;
-        solve(nums,i+1,n,ans);
+        solve(nums,idx,n,ans);
     }
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         vector<int>ans;
+        sort(nums.begin(),nums.end());
         solve(nums,0,nums.size(),ans);
         return result;
     }
