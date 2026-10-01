@@ -13,6 +13,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
@@ -110,6 +111,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0113-path-sum-ii) |
@@ -126,6 +128,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -397,6 +400,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
@@ -489,4 +493,12 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
