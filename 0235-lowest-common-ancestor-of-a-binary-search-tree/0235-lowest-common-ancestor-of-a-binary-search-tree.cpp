@@ -18,8 +18,7 @@ public:
 
         if(ln && rn)return root;
 
-        if(rn)return rn;
-        else return ln;
+        return ln ? ln : rn ? rn : nullptr;
         
     }
 };
