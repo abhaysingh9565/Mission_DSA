@@ -11,24 +11,39 @@
  */
 class Solution {
 private:
-    pair<TreeNode*,int> dfs(TreeNode* root)
-    {
-        if(!root)return{root,0};
-        auto left = dfs(root->left);
-        auto right = dfs(root->right);
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if(!root || root == p || root == q)return root;
 
-        if(left.second == right.second){
-            return {root,left.second+1};
-        }
-        if(left.second > right.second)
-        {
-            return {left.first , left.second+1};
-        }
-        else return {right.first , right.second+1};
+        TreeNode* left = lowestCommonAncestor(root->left,p,q);
+        TreeNode* right = lowestCommonAncestor(root->right , p , q);
+
+        if(left && right)return root;
+
+        return left ? left : right ? right : nullptr;
     }
 public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        auto ans = dfs(root);
-        return ans.first;
+        queue<TreeNode*>q;
+        q.push(root);
+        vector<TreeNode*>arr;
+        while(!q.empty())
+        {
+            int n = q.size();
+            arr.clear();
+            for(int i = 0 ; i < n ; i++)
+            {
+                TreeNode* temp = q.front();
+                q.pop();
+                arr.push_back(temp);
+                if(temp->left)q.push(temp->left);
+                if(temp->right)q.push(temp->right);
+            }
+        }
+        TreeNode* ans = arr[0];
+        for(int i = 1 ; i<arr.size(); i++)
+        {
+            ans = lowestCommonAncestor(root , ans , arr[i]);
+        }
+        return ans;
     }
 };
