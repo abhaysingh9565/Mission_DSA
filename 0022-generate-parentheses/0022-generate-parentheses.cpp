@@ -1,27 +1,28 @@
 class Solution {
 public:
-    void solve(int open, int close, int n, string s,vector<string> &ans)
-    {
-        if(open == n && close == n)
-        {
-            ans.push_back(s);
+    void solve(int open, int close, string curr, vector<string>& ans) {
+        // If all brackets are used
+        if (open == 0 && close == 0) {
+            ans.push_back(curr);
             return;
         }
 
-        if(open < n)
-        {
-            solve(open + 1, close, n, s + "(",ans);
-        }                      
-        if(close < open)
-        {
-            solve(open, close + 1, n, s + ")",ans);
+        // Add '(' if available
+        if (open > 0) {
+            solve(open - 1, close, curr + "(", ans);
         }
-    }                                                                      
-                    
+
+        // Add ')' only when there is an unmatched '('
+        if (close > open) {
+            solve(open, close - 1, curr + ")", ans);
+        }
+    }
+
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        solve(0,0,n,"",ans);
+
+        solve(n, n, "", ans);
+
         return ans;
-        
     }
 };
