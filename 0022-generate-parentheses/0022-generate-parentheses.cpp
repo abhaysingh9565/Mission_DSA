@@ -1,8 +1,6 @@
 class Solution {
 public:
-    vector<string> ans;
-
-    void solve(int open, int close, int n, string s)
+    void solve(int open, int close, int n, string s,vector<string> &ans)
     {
         if(s.length() == 2*n)
         {
@@ -12,17 +10,17 @@ public:
 
         if(open < n)
         {
-            solve(open + 1, close, n, s + "(");
+            solve(open + 1, close, n, s + "(",ans);
         }                      
         if(close < open)
         {
-            solve(open, close + 1, n, s + ")");
+            solve(open, close + 1, n, s + ")",ans);
         }
     }                                                                      
                     
     vector<string> generateParenthesis(int n) {
-        string s="";
-        solve(0,0,n,s);
+        vector<string> ans;
+        solve(0,0,n,"",ans);
         return ans;
         
     }
