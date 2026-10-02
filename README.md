@@ -111,6 +111,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
@@ -174,6 +175,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
@@ -213,6 +215,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
@@ -236,6 +239,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
