@@ -11,18 +11,37 @@
  */
 class Solution {
     private:
-    bool solve(TreeNode* root ,unordered_set<int>&st,int & k)
+    void inorder(TreeNode* root ,vector<int>&arr)
     {
-        if(!root)return false;
-        int rem = k-root->val;
-        if(st.count(rem))return true;
-        st.insert(root->val);
-
-        return solve(root->left,st,k) || solve(root->right , st, k);
+        if(root)
+        {
+            inorder(root->left , arr);
+            arr.push_back(root->val);
+            inorder(root->right , arr);
+        }
+        
     }
 public:
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int>st;
-        return solve(root,st,k);
+        vector<int>arr;
+        inorder(root,arr);
+        int s = 0 , e = arr.size()-1;
+        int sum;
+        while(s<e)
+        {
+            sum = arr[s]+arr[e];
+            if(sum == k)
+            {
+                return true;
+            }
+            else if(sum < k)
+            {
+                s++;
+            }
+            else{
+                e--;
+            }
+        }
+        return false;
     }
 };
