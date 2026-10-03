@@ -38,6 +38,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
@@ -141,6 +142,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -511,6 +513,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
