@@ -236,6 +236,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0020-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
