@@ -1,8 +1,7 @@
 class Solution {
-public:
-    string countAndSay(int n) {
-        if(n==1)return "1";
-        string prev = countAndSay(n-1);
+    private:
+    string decode(string &prev)
+    {
         string curr = "";
         for(int i = 0 ; i<prev.size(); i++)
         {
@@ -17,6 +16,12 @@ public:
             curr+=to_string(count);
             curr+=prev[i];
         }    
-        return curr;  
+        return curr;
+    }
+public:
+    string countAndSay(int n) {
+        if(n==1)return "1";
+        string prev =  countAndSay(n-1);
+        return decode(prev);
     }
 };
