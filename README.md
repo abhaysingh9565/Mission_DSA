@@ -93,6 +93,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0061-rotate-list) |
@@ -118,6 +119,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
@@ -216,6 +218,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
