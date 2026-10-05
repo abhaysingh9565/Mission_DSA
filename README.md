@@ -43,6 +43,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -67,6 +68,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -80,6 +82,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0316-remove-duplicate-letters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Range Minimum/Maximum Query
 |  |
@@ -105,6 +108,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
