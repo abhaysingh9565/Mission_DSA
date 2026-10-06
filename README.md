@@ -21,6 +21,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
@@ -135,6 +136,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
@@ -255,6 +257,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0242-valid-anagram) |
@@ -351,6 +354,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0101-symmetric-tree) |
@@ -478,6 +482,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
