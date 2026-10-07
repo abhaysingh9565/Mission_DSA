@@ -40,6 +40,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
@@ -150,6 +151,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0242-valid-anagram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -608,4 +611,5 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
