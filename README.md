@@ -9,6 +9,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0027-remove-element) |
@@ -257,6 +258,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0032-longest-valid-parentheses) |
@@ -610,6 +612,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
