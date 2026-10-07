@@ -266,6 +266,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0242-valid-anagram) |
@@ -307,6 +308,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0707-design-linked-list) |
@@ -379,6 +381,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0145-binary-tree-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -613,6 +616,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
