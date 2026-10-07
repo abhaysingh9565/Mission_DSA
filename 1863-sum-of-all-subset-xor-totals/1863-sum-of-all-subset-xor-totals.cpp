@@ -1,12 +1,17 @@
 class Solution {
+    int ans = 0;
+    void sum(vector<int>& nums , int index,int curr)
+    {
+        if(index>=nums.size()){
+            ans+=curr;
+            return;
+        }
+        sum(nums,index+1,curr^nums[index]);
+        sum(nums,index+1,curr);
+    }
 public:
     int subsetXORSum(vector<int>& nums) {
-        int OR = 0;
-
-        for(int num : nums) {
-            OR |= num;
-        }
-
-        return OR * (1 << (nums.size() - 1));
+        sum(nums,0,0);
+        return ans;
     }
 };
