@@ -16,6 +16,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0031-next-permutation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
@@ -140,6 +141,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
