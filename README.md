@@ -57,6 +57,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
@@ -641,4 +642,5 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
