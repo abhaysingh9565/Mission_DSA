@@ -205,6 +205,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0680-valid-palindrome-ii) |
@@ -255,6 +256,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0169-majority-element](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -320,6 +322,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0707-design-linked-list) |
@@ -590,6 +593,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
@@ -643,4 +647,8 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
