@@ -9,12 +9,12 @@ public:
             {
                 second++;
             }
-            if(c=='L'){
+            else if(c=='L'){
                 second--;
             }
-            if(c=='U')first--;
+            else if(c=='U')first--;
 
-            if(c=='D')first++;
+            else if(c=='D')first++;
         }
         return first == 0 && second ==0;
     }
