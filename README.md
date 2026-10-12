@@ -272,6 +272,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
