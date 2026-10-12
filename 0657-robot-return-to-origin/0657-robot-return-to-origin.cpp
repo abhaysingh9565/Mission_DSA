@@ -1,20 +1,21 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        pair<int,int>start = {0,0};
+        int first = 0;
+        int second = 0;
         for(char c : moves)
         {
             if(c=='R')
             {
-                start.second++;
+                second++;
             }
-            else if(c=='L'){
-                start.second--;
+            if(c=='L'){
+                second--;
             }
-            else if(c=='U')start.first--;
+            if(c=='U')first--;
 
-            else if(c=='D')start.first++;
+            if(c=='D')first++;
         }
-        return start.first == 0 && start.second ==0;
+        return first == 0 && second ==0;
     }
 };
