@@ -288,6 +288,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0796-rotate-string) |
