@@ -11,8 +11,12 @@ public:
     }
     
     int add(int val) {
-        pq.push(val);
-        if(pq.size()>nth)pq.pop();
+        if(pq.size()<nth) pq.push(val);
+        else if((int)pq.top()<val)
+        {
+            pq.pop();
+            pq.push(val);
+        }
 
         return pq.top();
         
