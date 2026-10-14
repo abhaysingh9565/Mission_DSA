@@ -6,8 +6,7 @@ public:
         nth = k;
         for(int n : nums)
         {
-            pq.push(n);
-            if(pq.size()>k)pq.pop();
+            add(n);
         }
     }
     
