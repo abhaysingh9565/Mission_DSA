@@ -6,24 +6,21 @@ public:
 
         for(int num : nums)
             st[num]++;
+        
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
 
-        vector<vector<int>> freq(n + 1);
-
-        for(auto x : st)
-            freq[x.second].push_back(x.first);
+        for(auto [num,freq]:st)
+        {
+            pq.push({freq,num});
+            if(pq.size()>k)pq.pop();
+        }
 
         vector<int> ans;
 
-        for(int i = n; i >= 1 && k > 0; i--)
+        while(!pq.empty())
         {
-            for(int num : freq[i])
-            {
-                ans.push_back(num);
-                k--;
-
-                if(k == 0)
-                    break;
-            }
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
 
         return ans;
