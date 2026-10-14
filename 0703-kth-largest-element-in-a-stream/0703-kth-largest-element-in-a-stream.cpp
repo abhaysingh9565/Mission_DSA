@@ -4,14 +4,14 @@ public:
     int nth ;
     KthLargest(int k, vector<int>& nums) {
         nth = k;
-        for(int n : nums)
+        for(auto n : nums)
         {
             add(n);
         }
     }
     
     int add(int val) {
-        if(pq.size()<nth) pq.push(val);
+        if(pq.size()<nth)pq.push(val);
         else if((int)pq.top()<val)
         {
             pq.pop();
