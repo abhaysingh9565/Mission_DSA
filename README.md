@@ -558,6 +558,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0176-second-highest-salary) |
+| [1148-article-views-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1148-article-views-i) |
 ## Divide and Conquer
 |  |
 | ------- |
