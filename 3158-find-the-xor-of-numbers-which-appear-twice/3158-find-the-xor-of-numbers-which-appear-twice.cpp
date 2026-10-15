@@ -1,15 +1,14 @@
 class Solution {
 public:
     int duplicateNumbersXOR(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(int n : nums)mp[n]++;
-
-        int ans = 0;
-        for(auto x : mp)
+        unordered_map<int ,int>mp;
+        int c=0;
+        for(int i:nums)
         {
-            if(x.second==2)ans^=x.first;
+            mp[i]++;
+            if(mp[i]%2==0)
+              c=c^i;
         }
-        return ans;
-        
+        return c;
     }
 };
