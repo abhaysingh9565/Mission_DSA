@@ -42,6 +42,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
@@ -161,6 +162,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
