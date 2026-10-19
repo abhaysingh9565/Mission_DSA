@@ -59,6 +59,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -274,6 +275,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -527,6 +529,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Union-Find
 |  |
 | ------- |
