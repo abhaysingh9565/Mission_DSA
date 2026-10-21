@@ -169,6 +169,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0260-single-number-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
