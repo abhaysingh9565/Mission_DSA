@@ -140,6 +140,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0021-merge-two-sorted-lists](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -167,6 +168,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0137-single-number-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -260,6 +262,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0070-climbing-stairs](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
