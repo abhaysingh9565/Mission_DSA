@@ -142,6 +142,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0224-basic-calculator](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -324,6 +325,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -562,6 +564,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0657-robot-return-to-origin) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Graph Theory
