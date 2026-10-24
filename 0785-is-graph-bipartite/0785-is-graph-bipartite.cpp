@@ -8,8 +8,8 @@ public:
         {
             if(coloured[v]=='n')
             {
-                char next = (color=='r')?'g':'r';
-                if(!dfs(graph,v,next,coloured)){
+                // char next = ((color=='r')?'g':'r');
+                if(!dfs(graph,v,((color=='r')?'g':'r'),coloured)){
                     return false;
                 }
 
