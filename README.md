@@ -446,6 +446,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -471,6 +472,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -549,6 +551,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0130-surrounded-regions](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -574,6 +577,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -706,4 +710,12 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
