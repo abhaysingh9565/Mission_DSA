@@ -267,6 +267,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0445-add-two-numbers-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +332,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Bracket Sequences
 |  |
