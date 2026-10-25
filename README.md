@@ -18,6 +18,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0042-trapping-rain-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0056-merge-intervals) |
@@ -152,6 +153,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0022-generate-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0090-subsets-ii) |
@@ -685,6 +687,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
