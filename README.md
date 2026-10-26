@@ -228,6 +228,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0917-reverse-only-letters) |
@@ -268,6 +269,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0231-power-of-two](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2409-count-days-spent-together) |
@@ -554,6 +556,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0633-sum-of-square-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
