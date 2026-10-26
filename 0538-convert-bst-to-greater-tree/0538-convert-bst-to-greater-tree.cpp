@@ -10,21 +10,21 @@
  * };
  */
 class Solution {
-    private:
-    void solve(TreeNode* root , int & sum)
+public:
+    int sum = 0;
+    void solve(TreeNode* root)
     {
         if(root)
         {
-            solve(root->right,sum);
-            sum += root->val;
+            solve(root->right);
+            sum+= root->val;
             root->val = sum;
-            solve(root->left,sum);
+            solve(root->left);
         }
     }
-public:
     TreeNode* convertBST(TreeNode* root) {
-        int sum = 0;
-        solve(root,sum);
+        solve(root);
         return root;
+        
     }
 };
