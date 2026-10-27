@@ -2,7 +2,8 @@ class Solution {
 public:
     int countPaths(int row , int col , vector<vector<int>> &dp)
     {
-        if(row == 0 || col == 0)
+        if(row<0 || col<0)return 0;
+        if(row == 0 && col == 0)
         {
             return 1;
         }
