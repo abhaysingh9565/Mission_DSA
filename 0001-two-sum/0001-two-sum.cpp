@@ -7,7 +7,7 @@ public:
         int start=0;
         int end=n-1;
         long long int tar;
-       std::sort(v.begin(), v.end());
+       sort(v.begin(), v.end());
         while(start<end){
             tar=v[start]+v[end];
             if(tar==target){
