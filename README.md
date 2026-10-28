@@ -622,6 +622,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0176-second-highest-salary) |
+| [0584-find-customer-referee](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1757-recyclable-and-low-fat-products) |
