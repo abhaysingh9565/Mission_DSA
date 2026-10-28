@@ -56,6 +56,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
@@ -570,6 +571,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
