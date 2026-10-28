@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int ans = 0;
+        int ans = INT_MIN;
         int s = 0, e= height.size()-1;
         while(s<e)
         {
