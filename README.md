@@ -50,6 +50,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
