@@ -64,6 +64,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -205,6 +206,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
@@ -690,6 +692,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Queue
 |  |
