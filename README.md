@@ -46,6 +46,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -227,6 +228,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0633-sum-of-square-numbers) |
