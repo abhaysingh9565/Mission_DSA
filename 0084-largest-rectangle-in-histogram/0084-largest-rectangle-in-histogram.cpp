@@ -1,65 +1,37 @@
 class Solution {
-
-private:
-void nextSmallerElement(vector<int> arr, int n ,vector<int>&ans)
-{
-   stack<int> s;
-   s.push(-1);
-
-   for(int i=n-1;i>=0;i--)
-   {
-       int curr=arr[i];
-       while(s.top() != -1 && arr[s.top()]>=curr)
-       {
-           s.pop();
-       }
-       ans[i]=s.top();
-       s.push(i);
-   }
-
-}
-
-void prevSmallerElement(vector<int> arr, int n,vector<int>&ans)
-{
-   stack<int> s;
-   s.push(-1);
-
-   for(int i=0;i<n;i++)
-   {
-       int curr=arr[i];
-       while(s.top() != -1 && arr[s.top()]>=curr)
-       {
-           s.pop();
-       }
-       ans[i]=s.top();
-       s.push(i);
-   }
-}
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size();
-        stack<int>st;
+        int n = heights.size();
+        if(n==0)return 0;
+        int maxArea = 0;
+        vector<int>left(n);
+        vector<int>right(n);
+        left[0]=-1;
+        right[n-1]=n;
 
-        // vector<int>next(n);
-        // nextSmallerElement(heights,n,next);
-
-        // vector<int>prev(n);
-        // prevSmallerElement(heights,n,prev);
-
-        int ans=0;
-        for(int i=0;i<=n;i++)
+        for(int i = 1 ; i<n ;i++)
         {
-            int h = i==n ? 0 : heights[i];
-            while(!st.empty() && h < heights[st.top()])
-            {
-                int height = heights[st.top()];
-                st.pop();
-                int width = st.empty() ? i : i - st.top()-1;
-                int area = height * width;
-                ans = max(ans, area);
+            int prev = i-1;
+            while(prev>=0 && heights[prev]>=heights[i]){
+                prev=left[prev];
             }
-            st.push(i);
+            left[i]=prev;
         }
-        return ans;
+
+        for(int i = n-2; i>=0 ; i--)
+        {
+            int prev = i+1;
+            while(prev<n && heights[prev]>=heights[i])
+            {
+                prev = right[prev];
+            }
+            right[i]=prev;
+        }
+
+        for(int i = 0; i < n; i++){
+            int width = right[i] - left[i] - 1;
+            maxArea = max(maxArea, heights[i] * width);
+        }
+        return maxArea;
     }
 };
