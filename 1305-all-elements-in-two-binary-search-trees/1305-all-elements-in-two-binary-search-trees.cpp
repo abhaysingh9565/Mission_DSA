@@ -31,17 +31,17 @@ public:
         {
             if(s1[i]<s2[j])
             {
-                ans[x++]=(s1[i++]);
+                ans[x++]=s1[i++];
             }
-            else ans[x++]=(s2[j++]);
+            else ans[x++]=s2[j++];
         }
         while(j<s2.size())
         {
-            ans[x++]=(s2[j++]);
+            ans[x++]=s2[j++];
         }
         while(i< s1.size())
         {
-            ans[x++]=(s1[i++]);
+            ans[x++]=s1[i++];
         }
         return ans;
     }
