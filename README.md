@@ -302,6 +302,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -432,6 +433,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0993-cousins-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -475,6 +477,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0993-cousins-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -546,6 +549,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0993-cousins-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## String Matching
 |  |
 | ------- |
@@ -576,6 +580,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Union-Find
 |  |
