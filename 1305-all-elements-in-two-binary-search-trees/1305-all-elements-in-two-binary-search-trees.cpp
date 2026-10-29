@@ -27,23 +27,21 @@ public:
         inorder(root1,s1);
         inorder(root2,s2);
         int i = 0 , j = 0;
-        while(i< s1.size() || j < s2.size())
+        while(i< s1.size() && j < s2.size())
         {
-            if(i< s1.size() && j < s2.size())
-            {
-                if(s1[i]<s2[j])
-                {
-                    ans.push_back(s1[i++]);
-                }
-                else ans.push_back(s2[j++]);
-            }
-            else if(i< s1.size())
+            if(s1[i]<s2[j])
             {
                 ans.push_back(s1[i++]);
             }
-            else{
-                ans.push_back(s2[j++]);
-            }
+            else ans.push_back(s2[j++]);
+        }
+        while(j<s2.size())
+        {
+            ans.push_back(s2[j++]);
+        }
+        while(i< s1.size())
+        {
+            ans.push_back(s1[i++]);
         }
         return ans;
     }
