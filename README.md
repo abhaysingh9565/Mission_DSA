@@ -62,6 +62,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -99,6 +100,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -612,6 +614,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0054-spiral-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Graph Theory
@@ -718,6 +721,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bucket Sort
