@@ -352,6 +352,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2409-count-days-spent-together](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -619,6 +620,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0547-number-of-provinces](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -695,6 +697,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -763,4 +766,8 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
