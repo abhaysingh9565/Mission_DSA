@@ -59,6 +59,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -581,6 +582,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -690,6 +692,7 @@ for example == 267_missing_number {question name = missing number , question num
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -714,6 +717,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Queue
