@@ -61,6 +61,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0704-binary-search](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1268-search-suggestions-system) |
@@ -213,6 +214,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -725,6 +727,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
