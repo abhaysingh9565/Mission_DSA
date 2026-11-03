@@ -15,9 +15,10 @@ public:
         vector<vector<int>>direction{{0,1},{0,-1},{1,0},{-1,0}};
         while(!q.empty())
         {
-            auto [i,j] = q.front();
+            int i = q.front().first;
+            int j = q.front().second;
             q.pop();
-            for(auto dir : direction)
+            for(auto &dir : direction)
             {
                 int new_i = i+dir[0];
                 int new_j = j+dir[1];
