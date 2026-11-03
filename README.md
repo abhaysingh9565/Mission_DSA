@@ -55,6 +55,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0641-design-circular-deque) |
@@ -278,6 +279,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
@@ -504,6 +506,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -615,6 +618,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0200-number-of-islands](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0733-flood-fill) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
