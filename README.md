@@ -75,6 +75,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [2073-time-needed-to-buy-tickets](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -316,6 +317,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhaysingh9565/Mission_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -681,6 +683,7 @@ for example == 267_missing_number {question name = missing number , question num
 | [0383-ransom-note](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0692-top-k-frequent-words) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhaysingh9565/Mission_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
