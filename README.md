@@ -8,6 +8,7 @@ for example == 267_missing_number {question name = missing number , question num
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0015-3sum) |
@@ -584,6 +585,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -672,6 +674,7 @@ for example == 267_missing_number {question name = missing number , question num
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhaysingh9565/Mission_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
